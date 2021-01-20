@@ -1,0 +1,39 @@
+@font-face{
+  font-family: 'GothamPro-Black';
+  font-weight: 900;
+  font-style: normal;
+  src: local('GothamPro-Black'),
+       url('../fonts/GothamPro-Black.woff2') format('woff2'),
+       url('../fonts/GothamPro-Black.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face{
+  font-family: 'TTNorms-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('TTNorms-Bold'),
+       url('../fonts/TTNorms-Bold.woff2') format('woff2'),
+       url('../fonts/TTNorms-Bold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face{
+  font-family: 'TTNorms-Medium';
+  font-weight: 500;
+  font-style: normal;
+  src: local('TTNorms-Medium'),
+       url('../fonts/TTNorms-Medium.woff2') format('woff2'),
+       url('../fonts/TTNorms-Medium.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face{
+  font-family: 'TTNorms-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: local('TTNorms-Regular'),
+       url('../fonts/TTNorms-Regular.woff2') format('woff2'),
+       url('../fonts/TTNorms-Regular.woff') format('woff');
+  font-display: swap;
+}

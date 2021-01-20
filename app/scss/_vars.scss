@@ -1,0 +1,32 @@
+$text: #2D2D2D;
+$accent: #F19B1A;
+$bg: #5B5B5B;
+
+%gh-900{
+  font-family: 'GothamPro-Black', sans-serif;
+  font-weight: 900;
+}
+
+%tt-700{
+  font-family: 'TTNorms-Bold', sans-serif;
+  font-weight: 700;
+}
+
+%tt-500{
+  font-family: 'TTNorms-Medium', sans-serif;
+  font-weight: 500;
+}
+
+%tt-400{
+  font-family: 'TTNorms-Regular', sans-serif;
+  font-weight: 400;
+}
+
+%checkbox-hidden,
+%radio-hidden{
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  position: absolute;
+}
